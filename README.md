@@ -1,16 +1,36 @@
-## Hi there 👋
+# Sreyphea Chheang
 
-<!--
-**spchheang/spchheang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Postdoctoral Fellow at CERDI, Université Clermont Auvergne.
 
-Here are some ideas to get you started:
+I am a macroeconomist with research interests in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Economic Growth and Development
+- Demographic Economics
+- Economic History
+- Applied Microeconomics
+- Agricultural Productivity
+- Development Economics
+
+My research examines the long-term demographic and economic effects of historical disruptions and agricultural practices in Cambodia.
+
+## Current Research
+
+I am currently working on the ECOTERM project, which studies ecosystem services derived from termite mounds in the Lower Mekong Basin.
+
+My work combines:
+- Field survey data
+- Econometric analysis
+- Agricultural productivity analysis
+- Household welfare research
+
+## Tools
+
+- Stata
+- MATLAB
+- Python
+- Econometrics
+- Data Analysis
+
+## Featured Repository
+
+- CambodianGenocide_DemographicEconomic_Replication
