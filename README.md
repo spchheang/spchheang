@@ -2,9 +2,6 @@
 
 Postdoctoral Fellow at CERDI, Université Clermont Auvergne.
 
-Personal website: https://spchheang.github.io  
-GitHub: https://github.com/spchheang
-
 I am a macroeconomist with research interests in:
 
 - Economic Growth and Development
@@ -34,6 +31,8 @@ My work combines:
 - Econometrics
 - Data Analysis
 
-## Featured Repository
+## Links
 
-- CambodianGenocide_DemographicEconomic_Replication
+- [Github website]([https://github.com/spchheang](https://spchheang.github.io))
+- [Cambodian Genocide Replication Repository](https://github.com/spchheang/CambodianGenocide_DemographicEconomic_Replication)
+- [Personal Google Site](https://sites.google.com/view/sreypheachheang/home)
