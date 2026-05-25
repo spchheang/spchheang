@@ -33,6 +33,6 @@ My work combines:
 
 ## Links
 
-- [Github website]([https://github.com/spchheang](https://spchheang.github.io))
+- [GitHub Website](https://spchheang.github.io)
 - [Cambodian Genocide Replication Repository](https://github.com/spchheang/CambodianGenocide_DemographicEconomic_Replication)
 - [Personal Google Site](https://sites.google.com/view/sreypheachheang/home)
